@@ -9,10 +9,13 @@ is an important, meaningful and challenging topic. The aim of this research is t
 find an effective solution to filter possible spam SMS. We have developed this
 software in accordance with these points so that seamless visual SMS segregation
 takes place.
+
 Spam text filter is a mobile application for detecting spam messages from your
 message inbox.
+
 Application reads all your inbox messages and checks whether message is spam
 or not. Application send message body to API and API in turn returns response
 whether message is spam or ham.
+
 We have used Bayes Theorem for calculating probability. And a Naive Bayes
 Classifier to develop our predicting model.
