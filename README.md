@@ -1,5 +1,5 @@
 # Spamfilter
-Spam SMS Filter, Python Machine Learning Model API with flutter as frontend. 
+Python Machine Learning Model API with flutter as frontend. 
 
 Currently, SMS is one of the most important methods of communication.
 However, the increasing of spam SMS causes traffic congestion, decreasing
