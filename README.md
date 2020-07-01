@@ -1,4 +1,4 @@
-# Spamfilter
+# Spam Text Filter
 Python Machine Learning Model API with flutter as frontend. 
 
 Currently, SMS is one of the most important methods of communication.
