@@ -1,5 +1,5 @@
 # Spam Text Filter
-Python Machine Learning Model API with flutter as frontend. 
+Files to train a machine learning model to classify text into spam or not, and a pre trained model hosted on a flask API.
 
 Currently, SMS is one of the most important methods of communication.
 However, the increasing of spam SMS causes traffic congestion, decreasing
